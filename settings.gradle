@@ -1,5 +1,3 @@
-include ':sensorManager'
-include ':sensorDataManager'
 include ':sensorManagerBasicExample'
 include ':sensingWithAlarmsExample'
 include ':sensingWithServiceSubscriptionsExample'

@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
+    compile 'com.github.tsmsogn:SensorManager:patch-1-SNAPSHOT'
     compile 'com.android.support:support-v4:19.+'
-    compile project(path: ':sensorManager')
 }
